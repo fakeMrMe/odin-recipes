@@ -1,0 +1,8 @@
+ol li {
+    list-style-type: none;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}

@@ -1,0 +1,18 @@
+a {
+    color: white;
+    font-size: 24px;
+    font-weight: 700; /*or bold*/
+}
+
+.burger {
+    background-color: brown;
+}
+
+.croissant {
+    color: black;
+    background-color:antiquewhite
+}
+
+.cherrypie {
+    background-color: crimson;
+}
